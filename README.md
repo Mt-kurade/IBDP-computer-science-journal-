@@ -28,6 +28,11 @@ This repository contains my IB Diploma Programme (IBDP) Computer Science journal
 2. B2.4.1 Big O notation (time + space complexity ): Choosing algorithm based on scalability and efficiency 
 3. B2.4.2 Linear search and Binary search: Linear search, Binary search 
 4. B2.4.3 Bubble sort and selection sort: Bubble sort, selection sort
+5. B2.4.4 Recursion (HL)
+6. B2.4.5 Recursive algorithms (HL): Factorial of a number, fibonacci sequence, quicksort, traversal of binary trees
+
+1. ### B.5 File Processing
+
 
 
 
