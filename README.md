@@ -1,4 +1,5 @@
-IBDP Computer Science Journal
-Overview
-
+# IBDP Computer Science Journal
+Overview:
 This repository contains my IB Diploma Programme (IBDP) Computer Science journal.
+
+## Topic B2: Computer Fundementals 
