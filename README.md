@@ -13,6 +13,7 @@ This repository contains my IB Diploma Programme (IBDP) Computer Science journal
 
 1. ### B2.2 Data Structures
 2. B2.2.1 Static vs Dynamic data structures
+3. B2.2.2 Arrays and lists
 
 1. ### B2.3 Programming constructs
 2. B2.3.1 Sequencing
@@ -20,6 +21,7 @@ This repository contains my IB Diploma Programme (IBDP) Computer Science journal
 4. B2.3.3 Loops and iteration
 5. B2.3.4 Functions and Modularization
 
+1. ### 
 
 
 
