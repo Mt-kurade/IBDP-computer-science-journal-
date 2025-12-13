@@ -24,7 +24,10 @@ This repository contains my IB Diploma Programme (IBDP) Computer Science journal
 4. B2.3.3 Loops and iteration
 5. B2.3.4 Functions and Modularization
 
-1. ### 
+1. ### B2.4 Programming algorithms
+2. B2.4.1 Big O notation (time + space complexity ): Choosing algorithm based on scalability and efficiency 
+3. B2.4.2 Linear search and Binary search: Linear search, Binary search 
+4. B2.4.3 Bubble sort and selection sort: Bubble sort, selection sort
 
 
 
