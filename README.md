@@ -16,7 +16,7 @@ This repository contains my IB Diploma Programme (IBDP) Computer Science journal
 3. B2.2.2 Arrays and lists
 4. B2.2.3 Stacks
 5. B2.3.4 Queues
-6. 
+  
 
 1. ### B2.3 Programming constructs
 2. B2.3.1 Sequencing
