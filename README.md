@@ -19,7 +19,7 @@ This repository is an **IB Diploma Programme (IBDP) Computer Science journal**.
 - Cloud computing  
 
 #### A1.2 Data Representation and Computer Logic
-- Number systems and data representation  
+- Number systems and data representation (Binary, HEX, decimal)
 - Binary representation of data  
 - ASCII: to text conversion
 - Logic gates: purpose and use  
