@@ -21,7 +21,7 @@ This repository is an **IB Diploma Programme (IBDP) Computer Science journal**.
 #### A1.2 Data Representation and Computer Logic
 - Number systems and data representation  
 - Binary representation of data  
-- ASCII: purpose and use  
+- ASCII: to text conversion
 - Logic gates: purpose and use  
 - Constructing and analysing truth tables  
 - Constructing logic diagrams  
