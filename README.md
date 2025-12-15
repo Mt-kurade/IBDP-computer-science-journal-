@@ -67,7 +67,7 @@ This repository contains my **IB Diploma Programme (IBDP) Computer Science journ
   - Home security system  
   - Automatic doors  
 
-#### 4. Translation
+#### A1.4 Translation
 - Translation processes:
   - Interpreters  
   - Compilers  
