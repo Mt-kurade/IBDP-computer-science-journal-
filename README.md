@@ -26,7 +26,7 @@ This repository contains my **IB Diploma Programme (IBDP) Computer Science journ
 - Constructing and analysing truth tables  
 - Constructing logic diagrams  
 
-#### 3. Operating Systems and Control Systems
+#### A1.3 Operating Systems and Control Systems
 - Role of an operating system (OS)  
 - Functions of an OS:
   - Memory management  
