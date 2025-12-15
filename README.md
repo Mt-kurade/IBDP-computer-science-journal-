@@ -9,7 +9,7 @@ This repository contains my **IB Diploma Programme (IBDP) Computer Science journ
 
 ###  Topic A.1: Computer Fundamentals
 
-#### 1. Computer Hardware and Operations
+#### A1.1 Computer Hardware and Operations
 - CPU and GPU  
 - Differences between CPU and GPU  
 - Primary memory types  
