@@ -16,7 +16,7 @@ This repository is an **IB Diploma Programme (IBDP) Computer Science journal**.
 - Fetch–Decode–Execute cycle  
 - Pipelining in multi-core architectures *(HL)*  
 - Data compression  
-- Cloud computing  
+- Cloud computing  (IAAS, PAAS, SAAS)
 
 #### A1.2 Data Representation and Computer Logic
 - Number systems and data representation (Binary, HEX, decimal)
