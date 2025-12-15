@@ -1,7 +1,7 @@
 # IBDP Computer Science Journal
 
 ## Overview
-This repository contains my **IB Diploma Programme (IBDP) Computer Science journal**.
+This repository is an **IB Diploma Programme (IBDP) Computer Science journal**.
 
 ---
 
