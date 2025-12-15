@@ -1,48 +1,120 @@
 # IBDP Computer Science Journal
-Overview:
-This repository contains my IB Diploma Programme (IBDP) Computer Science journal.
 
+## Overview
+This repository contains my **IB Diploma Programme (IBDP) Computer Science journal**.
 
-# Topic A: Concepts of computer science 
-## Topic A.1: Computer fundementals 
-1. Computer hardware and operations: CPU, GPU, difference between CPU and GPU, primary memory types, fetch decode and execute cycle, pipelinging in multi-core architecture (HL), compression, cloud computing
-2. Data representation and computer logic: Representing data(number system), use of binary in storage of data(ASCII, purpose and use of logic gates, constructing and analysing truth tabbles, constructing logic diagrams 
-3. Operating systems and control systems: role of OS, functions of OS(Memory management, file management, device management, sceduling, security, accounting, graphical user interface, Virtualization, Networking), approaches for scheduling(FCFC, Round robin, Priority scheduling, multilevel queue scheduling), inturrupt handling and polling(Inturrpts handling, polling, interrupts vs polling), role of os in multitasking and resource hadngling (task schedulinh, resource contention, deadlock, multasking challenges,) (HL). Use of OS components(Input, process, output and feedback mechanism, ) (HL), use of Control system in real life applications (home thermostat, automatic elvator control, autonomous vehicles, automatic washign machine, traffic signal control system, irrgiation control system, home-security system, automatic doors)(HL)
-4. Translation: Translation processes of interpreters and compilers (interpreters, compliters, advanced compilers and interpreters, evaluation of different tranlation processes)
+---
 
-# Topic B: Computational thinking and problem solving
+## Topic A: Concepts of Computer Science
 
-## Topic B2: Programming
-1. ### B2.1 Programming fundamentals (pt 1)
-2. B2.1.1 Variables 
-3. B2.1.2 String Manipulation
+###  Topic A.1: Computer Fundamentals
 
-1. ### B2.1 Programming fundamentals (pt 2)
-2. B2.1.3 Exception handling
-3. B2.14 Debugging Techniques
+#### 1. Computer Hardware and Operations
+- CPU and GPU  
+- Differences between CPU and GPU  
+- Primary memory types  
+- Fetch–Decode–Execute cycle  
+- Pipelining in multi-core architectures *(HL)*  
+- Data compression  
+- Cloud computing  
 
-1. ### B2.2 Data Structures
-2. B2.2.1 Static vs Dynamic data structures
-3. B2.2.2 Arrays and lists
-4. B2.2.3 Stacks
-5. B2.3.4 Queues
-  
+#### 2. Data Representation and Computer Logic
+- Number systems and data representation  
+- Binary representation of data  
+- ASCII: purpose and use  
+- Logic gates: purpose and use  
+- Constructing and analysing truth tables  
+- Constructing logic diagrams  
 
-1. ### B2.3 Programming constructs
-2. B2.3.1 Sequencing
-3. B2.3.2 Selection structures
-4. B2.3.3 Loops and iteration
-5. B2.3.4 Functions and Modularization
+#### 3. Operating Systems and Control Systems
+- Role of an operating system (OS)  
+- Functions of an OS:
+  - Memory management  
+  - File management  
+  - Device management  
+  - Scheduling  
+  - Security  
+  - Accounting  
+  - Graphical User Interface (GUI)  
+  - Virtualization  
+  - Networking  
+- Scheduling approaches:
+  - First Come First Served (FCFS)  
+  - Round Robin  
+  - Priority scheduling  
+  - Multilevel queue scheduling  
+- Interrupt handling and polling:
+  - Interrupt handling  
+  - Polling  
+  - Interrupts vs polling  
+- OS role in multitasking and resource handling *(HL)*:
+  - Task scheduling  
+  - Resource contention  
+  - Deadlock  
+  - Multitasking challenges  
+- OS components *(HL)*:
+  - Input  
+  - Process  
+  - Output  
+  - Feedback  
+- Control systems in real-life applications *(HL)*:
+  - Home thermostat  
+  - Automatic elevator control  
+  - Autonomous vehicles  
+  - Automatic washing machine  
+  - Traffic signal control system  
+  - Irrigation control system  
+  - Home security system  
+  - Automatic doors  
 
-1. ### B2.4 Programming algorithms
-2. B2.4.1 Big O notation (time + space complexity ): Choosing algorithm based on scalability and efficiency 
-3. B2.4.2 Linear search and Binary search: Linear search, Binary search 
-4. B2.4.3 Bubble sort and selection sort: Bubble sort, selection sort
-5. B2.4.4 Recursion (HL)
-6. B2.4.5 Recursive algorithms (HL): Factorial of a number, fibonacci sequence, quicksort, traversal of binary trees
+#### 4. Translation
+- Translation processes:
+  - Interpreters  
+  - Compilers  
+  - Advanced compilers and interpreters  
+- Evaluation of different translation processes  
 
-1. ### B.5 File Processing
+---
 
+## Topic B: Computational Thinking and Problem Solving
 
+### Topic B.2: Programming
 
+#### B2.1 Programming Fundamentals (Part 1)
+- Variables  
+- String manipulation  
+
+#### B2.1 Programming Fundamentals (Part 2)
+- Exception handling  
+- Debugging techniques  
+
+#### B2.2 Data Structures
+- Static vs dynamic data structures  
+- Arrays and lists  
+- Stacks  
+- Queues  
+
+#### B2.3 Programming Constructs
+- Sequencing  
+- Selection structures  
+- Loops and iteration  
+- Functions and modularization  
+
+#### B2.4 Programming Algorithms
+- Big O notation *(time and space complexity)*  
+  - Choosing algorithms based on scalability and efficiency  
+- Searching algorithms:
+  - Linear search  
+  - Binary search  
+- Sorting algorithms:
+  - Bubble sort  
+  - Selection sort  
+- Recursion *(HL)*  
+- Recursive algorithms *(HL)*:
+  - Factorial  
+  - Fibonacci sequence  
+  - Quicksort  
+  - Traversal of binary trees  
+
+#### B2.5 File Processing
 
