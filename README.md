@@ -18,7 +18,7 @@ This repository contains my **IB Diploma Programme (IBDP) Computer Science journ
 - Data compression  
 - Cloud computing  
 
-#### 2. Data Representation and Computer Logic
+#### A1.2 Data Representation and Computer Logic
 - Number systems and data representation  
 - Binary representation of data  
 - ASCII: purpose and use  
