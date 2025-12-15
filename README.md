@@ -3,10 +3,13 @@ Overview:
 This repository contains my IB Diploma Programme (IBDP) Computer Science journal.
 
 
-## Topic B2: Computer Fundementals 
+# Topic A: Concepts of computer science 
+## Topic A.1: Computer fundementals 
+1. Computer hardware and operations: CPU, GPU, difference between CPU and GPU
 
+# Topic B: Computational thinking and problem solving
 
-## Topic B2: Computational thinking and problem solving
+## Topic B2: Programming
 1. ### B2.1 Programming fundamentals (pt 1)
 2. B2.1.1 Variables 
 3. B2.1.2 String Manipulation
