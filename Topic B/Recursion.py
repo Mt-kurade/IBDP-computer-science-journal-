@@ -9,6 +9,8 @@ else,
 1. Binary tree diagram of revisive calls
 2. Ends tree at base case 
 
+The code for this will be an if, elif and else statement within a function (def) 
+
 '''
 
 # Simple example 
